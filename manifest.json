@@ -1,0 +1,33 @@
+{
+  "name": "Mistrz Polskiego",
+  "short_name": "Mistrz Polskiego",
+  "description": "Nowoczesna aplikacja edukacyjna do nauki języka polskiego dla uczniów klasy 4.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#3b82f6",
+  "lang": "pl",
+  "categories": ["education", "kids"],
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
